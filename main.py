@@ -18,3 +18,4 @@ def process_message(self, data):
         self.outputs.append([data["channel"], "오늘 하루도 수고많았어. 오늘은 어땠어?"])
 
 print('화이팅 지윤님')
+print('나의 수정수정 수정이다')
